@@ -1,0 +1,37 @@
+[
+  {
+    "id": "scene1_intro",
+    "text": "Welcome to Adaptive AI Model Router, built for the AI Infra Summit Hackathon 2026. In modern enterprise systems, over seventy percent of queries are simple factual requests, yet get blasted to expensive frontier models, causing massive latency and burning GPU budgets.",
+    "file": "assets/audio/scene1_intro.mp3",
+    "duration": 16.85,
+    "frames": 520
+  },
+  {
+    "id": "scene2_solution",
+    "text": "Our solution is an intelligent, multi-objective LLM routing gateway. Users select their target constraint: Speed Mode for sub-three-hundred millisecond LPU responses, Cost Mode for up to eighty percent token savings, or Quality Mode for deep frontier reasoning.",
+    "file": "assets/audio/scene2_solution.mp3",
+    "duration": 15.2,
+    "frames": 471
+  },
+  {
+    "id": "scene3_architecture",
+    "text": "Under the hood, a high-throughput FastAPI service powers a stateful LangGraph decision graph. Queries are classified by Groq with ninety-nine percent accuracy, then evaluated against our in-memory Qdrant vector similarity cache.",
+    "file": "assets/audio/scene3_architecture.mp3",
+    "duration": 12.83,
+    "frames": 399
+  },
+  {
+    "id": "scene4_demo",
+    "text": "Here is our live running Streamlit dashboard. In verified testing, semantic caching achieved an eleven-point-two times speedup: cutting latency from fourteen point two seconds down to one point two seconds, eliminating one hundred percent of token cost on recurring intents.",
+    "file": "assets/audio/scene4_demo.mp3",
+    "duration": 15.54,
+    "frames": 481
+  },
+  {
+    "id": "scene5_conclusion",
+    "text": "Every decision is committed to an asynchronous PostgreSQL audit ledger. With instant heuristic fallbacks and silent degradation, Adaptive AI Model Router is fully verified and production-ready.",
+    "file": "assets/audio/scene5_conclusion.mp3",
+    "duration": 10.89,
+    "frames": 341
+  }
+]
